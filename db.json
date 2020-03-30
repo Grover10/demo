@@ -1,14 +1,44 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+	{
+		"customerId": 1,
+		"customerName": "John",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 2,
+		"customerName": "Ria",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 3,
+		"customerName": "Rose",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 4,
+		"customerName": "Simran",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 5,
+		"customerName": "Mike",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 6,
+		"customerName": "Alice",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 7,
+		"customerName": "Molisha",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+    }
+]
