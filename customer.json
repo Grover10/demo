@@ -1,0 +1,44 @@
+[
+	{
+		"customerId": 1,
+		"customerName": "John",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 2,
+		"customerName": "Ria",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 3,
+		"customerName": "Rose",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 4,
+		"customerName": "Simran",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 5,
+		"customerName": "Mike",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 6,
+		"customerName": "Alice",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+	},
+    {
+		"customerId": 7,
+		"customerName": "Molisha",
+		"customerMobile": "9999999999",
+		"address": "23/Lane-21"
+    }
+]
